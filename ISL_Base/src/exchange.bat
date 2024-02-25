@@ -1,0 +1,1 @@
+$ sed -e 's/$/\r/' ISL_Absorption.txt > mydos.txt
